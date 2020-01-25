@@ -4,7 +4,6 @@
 #
 %define		pdir	HTML
 %define		pnam	WikiConverter-Markdown
-%include	/usr/lib/rpm/macros.perl
 Summary:	HTML::WikiConverter::Markdown - Convert HTML to Markdown markup
 Summary(pl.UTF-8):	HTML::WikiConverter::Markdown - konwertowanie HTML-a do znaczników Markdown
 Name:		perl-HTML-WikiConverter-Markdown
